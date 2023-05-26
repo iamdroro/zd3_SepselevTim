@@ -1,0 +1,11 @@
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.csproj.AssemblyReference.cache
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.csproj.SuggestedBindingRedirects.cache
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.Form1.resources
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.Properties.Resources.resources
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.csproj.GenerateResource.cache
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.csproj.CoreCompileInputs.cache
+D:\zd3_SepselevTim\mashine\bin\Debug\mashine.exe.config
+D:\zd3_SepselevTim\mashine\bin\Debug\mashine.exe
+D:\zd3_SepselevTim\mashine\bin\Debug\mashine.pdb
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.exe
+D:\zd3_SepselevTim\mashine\obj\Debug\mashine.pdb
